@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dc9a1bcb-ea41-4506-9ddb-7e654c2a9c66": {
+      "ProjectGuid": "dc9a1bcb-ea41-4506-9ddb-7e654c2a9c66",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "2ae3ee50-0021-4cdd-bc0b-66f5ee8f78be": {
+      "ProjectGuid": "2ae3ee50-0021-4cdd-bc0b-66f5ee8f78be",
+      "DisplayName": "Exercise1",
+      "ColorIndex": 1
+    },
+    "77a460b3-b7a7-4791-be4d-4b5cfaeb1e15": {
+      "ProjectGuid": "77a460b3-b7a7-4791-be4d-4b5cfaeb1e15",
+      "DisplayName": "Exercise2",
+      "ColorIndex": 2
+    },
+    "7eac87ce-505d-4e4c-9f1f-d7bbb54d4528": {
+      "ProjectGuid": "7eac87ce-505d-4e4c-9f1f-d7bbb54d4528",
+      "DisplayName": "Exercise3",
+      "ColorIndex": 3
+    },
+    "23645c68-9df3-4694-beb9-a72f9297ef2a": {
+      "ProjectGuid": "23645c68-9df3-4694-beb9-a72f9297ef2a",
+      "DisplayName": "Exercise4",
+      "ColorIndex": 4
+    },
+    "184e2235-fca5-473d-abf8-b9ef85e74147": {
+      "ProjectGuid": "184e2235-fca5-473d-abf8-b9ef85e74147",
+      "DisplayName": "Exercise5",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
