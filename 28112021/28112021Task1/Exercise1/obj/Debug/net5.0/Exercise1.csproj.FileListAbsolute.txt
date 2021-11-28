@@ -1,0 +1,16 @@
+C:\Users\Nicat\Desktop\R programming\p321\28112021\28112021Task1\Exercise1\bin\Debug\net5.0\Exercise1.exe
+C:\Users\Nicat\Desktop\R programming\p321\28112021\28112021Task1\Exercise1\bin\Debug\net5.0\Exercise1.deps.json
+C:\Users\Nicat\Desktop\R programming\p321\28112021\28112021Task1\Exercise1\bin\Debug\net5.0\Exercise1.runtimeconfig.json
+C:\Users\Nicat\Desktop\R programming\p321\28112021\28112021Task1\Exercise1\bin\Debug\net5.0\Exercise1.runtimeconfig.dev.json
+C:\Users\Nicat\Desktop\R programming\p321\28112021\28112021Task1\Exercise1\bin\Debug\net5.0\Exercise1.dll
+C:\Users\Nicat\Desktop\R programming\p321\28112021\28112021Task1\Exercise1\bin\Debug\net5.0\ref\Exercise1.dll
+C:\Users\Nicat\Desktop\R programming\p321\28112021\28112021Task1\Exercise1\bin\Debug\net5.0\Exercise1.pdb
+C:\Users\Nicat\Desktop\R programming\p321\28112021\28112021Task1\Exercise1\obj\Debug\net5.0\Exercise1.csproj.AssemblyReference.cache
+C:\Users\Nicat\Desktop\R programming\p321\28112021\28112021Task1\Exercise1\obj\Debug\net5.0\Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicat\Desktop\R programming\p321\28112021\28112021Task1\Exercise1\obj\Debug\net5.0\Exercise1.AssemblyInfoInputs.cache
+C:\Users\Nicat\Desktop\R programming\p321\28112021\28112021Task1\Exercise1\obj\Debug\net5.0\Exercise1.AssemblyInfo.cs
+C:\Users\Nicat\Desktop\R programming\p321\28112021\28112021Task1\Exercise1\obj\Debug\net5.0\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\Nicat\Desktop\R programming\p321\28112021\28112021Task1\Exercise1\obj\Debug\net5.0\Exercise1.dll
+C:\Users\Nicat\Desktop\R programming\p321\28112021\28112021Task1\Exercise1\obj\Debug\net5.0\ref\Exercise1.dll
+C:\Users\Nicat\Desktop\R programming\p321\28112021\28112021Task1\Exercise1\obj\Debug\net5.0\Exercise1.pdb
+C:\Users\Nicat\Desktop\R programming\p321\28112021\28112021Task1\Exercise1\obj\Debug\net5.0\Exercise1.genruntimeconfig.cache
