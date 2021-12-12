@@ -1,0 +1,16 @@
+C:\Users\Nicat\Desktop\R programming\IntroductionTo_C-Sharp\ClassWork\Classwork1\bin\Debug\net5.0\Classwork1.exe
+C:\Users\Nicat\Desktop\R programming\IntroductionTo_C-Sharp\ClassWork\Classwork1\bin\Debug\net5.0\Classwork1.deps.json
+C:\Users\Nicat\Desktop\R programming\IntroductionTo_C-Sharp\ClassWork\Classwork1\bin\Debug\net5.0\Classwork1.runtimeconfig.json
+C:\Users\Nicat\Desktop\R programming\IntroductionTo_C-Sharp\ClassWork\Classwork1\bin\Debug\net5.0\Classwork1.runtimeconfig.dev.json
+C:\Users\Nicat\Desktop\R programming\IntroductionTo_C-Sharp\ClassWork\Classwork1\bin\Debug\net5.0\Classwork1.dll
+C:\Users\Nicat\Desktop\R programming\IntroductionTo_C-Sharp\ClassWork\Classwork1\bin\Debug\net5.0\ref\Classwork1.dll
+C:\Users\Nicat\Desktop\R programming\IntroductionTo_C-Sharp\ClassWork\Classwork1\bin\Debug\net5.0\Classwork1.pdb
+C:\Users\Nicat\Desktop\R programming\IntroductionTo_C-Sharp\ClassWork\Classwork1\obj\Debug\net5.0\Classwork1.csproj.AssemblyReference.cache
+C:\Users\Nicat\Desktop\R programming\IntroductionTo_C-Sharp\ClassWork\Classwork1\obj\Debug\net5.0\Classwork1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicat\Desktop\R programming\IntroductionTo_C-Sharp\ClassWork\Classwork1\obj\Debug\net5.0\Classwork1.AssemblyInfoInputs.cache
+C:\Users\Nicat\Desktop\R programming\IntroductionTo_C-Sharp\ClassWork\Classwork1\obj\Debug\net5.0\Classwork1.AssemblyInfo.cs
+C:\Users\Nicat\Desktop\R programming\IntroductionTo_C-Sharp\ClassWork\Classwork1\obj\Debug\net5.0\Classwork1.csproj.CoreCompileInputs.cache
+C:\Users\Nicat\Desktop\R programming\IntroductionTo_C-Sharp\ClassWork\Classwork1\obj\Debug\net5.0\Classwork1.dll
+C:\Users\Nicat\Desktop\R programming\IntroductionTo_C-Sharp\ClassWork\Classwork1\obj\Debug\net5.0\ref\Classwork1.dll
+C:\Users\Nicat\Desktop\R programming\IntroductionTo_C-Sharp\ClassWork\Classwork1\obj\Debug\net5.0\Classwork1.pdb
+C:\Users\Nicat\Desktop\R programming\IntroductionTo_C-Sharp\ClassWork\Classwork1\obj\Debug\net5.0\Classwork1.genruntimeconfig.cache
