@@ -1,0 +1,16 @@
+C:\Users\Nicat\Desktop\R programming\p321\Problems\30Nov2021\bin\Debug\net5.0\30Nov2021.exe
+C:\Users\Nicat\Desktop\R programming\p321\Problems\30Nov2021\bin\Debug\net5.0\30Nov2021.deps.json
+C:\Users\Nicat\Desktop\R programming\p321\Problems\30Nov2021\bin\Debug\net5.0\30Nov2021.runtimeconfig.json
+C:\Users\Nicat\Desktop\R programming\p321\Problems\30Nov2021\bin\Debug\net5.0\30Nov2021.runtimeconfig.dev.json
+C:\Users\Nicat\Desktop\R programming\p321\Problems\30Nov2021\bin\Debug\net5.0\30Nov2021.dll
+C:\Users\Nicat\Desktop\R programming\p321\Problems\30Nov2021\bin\Debug\net5.0\ref\30Nov2021.dll
+C:\Users\Nicat\Desktop\R programming\p321\Problems\30Nov2021\bin\Debug\net5.0\30Nov2021.pdb
+C:\Users\Nicat\Desktop\R programming\p321\Problems\30Nov2021\obj\Debug\net5.0\30Nov2021.csproj.AssemblyReference.cache
+C:\Users\Nicat\Desktop\R programming\p321\Problems\30Nov2021\obj\Debug\net5.0\30Nov2021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicat\Desktop\R programming\p321\Problems\30Nov2021\obj\Debug\net5.0\30Nov2021.AssemblyInfoInputs.cache
+C:\Users\Nicat\Desktop\R programming\p321\Problems\30Nov2021\obj\Debug\net5.0\30Nov2021.AssemblyInfo.cs
+C:\Users\Nicat\Desktop\R programming\p321\Problems\30Nov2021\obj\Debug\net5.0\30Nov2021.csproj.CoreCompileInputs.cache
+C:\Users\Nicat\Desktop\R programming\p321\Problems\30Nov2021\obj\Debug\net5.0\30Nov2021.dll
+C:\Users\Nicat\Desktop\R programming\p321\Problems\30Nov2021\obj\Debug\net5.0\ref\30Nov2021.dll
+C:\Users\Nicat\Desktop\R programming\p321\Problems\30Nov2021\obj\Debug\net5.0\30Nov2021.pdb
+C:\Users\Nicat\Desktop\R programming\p321\Problems\30Nov2021\obj\Debug\net5.0\30Nov2021.genruntimeconfig.cache
