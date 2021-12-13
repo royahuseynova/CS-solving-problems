@@ -32,7 +32,7 @@ namespace Classwork3
             #endregion
                 
             #region do while loop
-                doubke i-0;
+                double i=0;
                do
                {
                  Console.WriteLine (i );
@@ -79,9 +79,64 @@ namespace Classwork3
                
           #endregion
                    
-          #region istifadeci terefinden daxil edilme
-              
+          #region istifadeci terefinden daxil edilmesi
+              Console.Write("Adinizi daxil edin");
+              string name = Console.ReadLine()
+              Console.Write("Soyadinizi daxil edin")
+              string surname = Console.ReadLine()
+              string message = $"salam {name} {surname}!";
+            Console.Clear();
+            
+            Console.WriteLine (message);
+            
            #endregion
+               
+        #region basicCalc
+               
+           Console.Write ("a-ni daxil edin");
+         double k = Convert.ToDouble (Console.ReadLine());
+            
+            Console.Write ("Emeliyyati Secin: ( +, -, *, / ) ");
+            string @operator = Console.ReadLine();
+            
+            
+            Console.Write ("b-ni daxil edin");
+            double y = Convert.ToDouble(Console.ReadLine());
+            
+            
+            double z = 0;
+            
+            
+            if (@operator == "+")
+            {
+              z = k + y;  
+            }
+             
+             else if (@operator == "-")
+            {
+              z = k - y;  
+            }
+            
+            else if (@operator == "/")
+            {
+              z = k / y;  
+            }
+            
+            else if (@operator == "*")
+            {
+              z = k * y;  
+            }
+            
+            else {
+               Console.WriteLine ("duzgun secim deyil");
+            }
+            
+            Console.WriteLine ($"{k} {@operator} {y} = {z}")
+                
+         #endregion
+               
+               
+               
         }
     }
 }
