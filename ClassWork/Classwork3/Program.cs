@@ -60,9 +60,28 @@ namespace Classwork3
            #endregion
                
                
-           
+          #region example2
+            
+          // 3 reqemli eded verilib. Bu ededin axirina hemin ededin ozunu yapishdir. example: 333 = 333333     
+               
+         //3reqemli oldugunu yoxlayaq
+               
+           int t = 333;
+            int e = 0;
+            if (t>=100 && t<1000)
+            {
+                e *= 1000;
+                e = e+t
+               // asagi xette dusende t-nin qiymeti deyiser deye t = t *1000 +t  olarsa onda istenilen cavab alinacaq. amma t = t *1000 yazib asagi xette dusub t = t + t yazsaydiq ferqli cavab alacaydiq
+                    Console.WriteLine(e)
+            }
+               
+               
+          #endregion
                    
-                   
+          #region istifadeci terefinden daxil edilme
+              
+           #endregion
         }
     }
 }
