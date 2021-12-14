@@ -11,7 +11,7 @@ namespace Classwork3
             {
             b = b *i;
             }
-          #region Sonsuz saat dovru  
+          #region SonsuzSaatDovru  
             for(; ;)
             // ve ya for (; 1==1;)
             // ve ya (; true;)
@@ -20,7 +20,7 @@ namespace Classwork3
             }
              # endregion
                  
-           #region while Loop
+           #region whileLoop
                double i = 5;
                            
                while (i>=0)
@@ -31,7 +31,7 @@ namespace Classwork3
                
             #endregion
                 
-            #region do while loop
+            #region doWhileLoop
                 double i=0;
                do
                {
@@ -79,7 +79,7 @@ namespace Classwork3
                
           #endregion
                    
-          #region istifadeci terefinden daxil edilmesi
+          #region istifadeciTerefindenDaxilEdilmesi
               Console.Write("Adinizi daxil edin");
               string name = Console.ReadLine()
               Console.Write("Soyadinizi daxil edin")
@@ -135,8 +135,56 @@ namespace Classwork3
                 
          #endregion
                
-               
-               
+         
+         #region example3
+                
+                
+         Console.Write ("a: ");
+            
+         string fStr = Console.ReadLine();
+          double f =  Convert.ToDouble(fStr);
+            
+         Console.Write ("g: ")
+             
+           string gStr = Console.ReadLine();
+            double g = Convert.ToDouble (gStr);
+            
+            double cavab = Math.Pow (f, g); //f-i g qeder quvvetlendir
+            
+            //kok alma
+            
+            double kokaltiCvb= Math.Pow(f, 1/g);
+            
+            Console.WriteLine ($"{f} ustu {g} = {cavab}");
+            Console.WriteLine ($"{f}in {g} dereceden koku = {kokaltiCvb});
+                               
+           double kokalti = Math.Sqrt(f);
+           Console.WriteLine(kokalti);
+            double siniusCvb = Math.Sin();
+                         
+         #endregion
+         
+                               
+          #region example4
+                               
+          Step1:                     
+          Console.WriteLine ("n: );  
+          int n = Convert.ToInt32 (Console.ReadLine());
+          
+          if (n >=100 && n <1000)
+          {
+            System.Console.WriteLine ("3 reqemli ededdir");  
+          }
+          else {
+              
+          System.Console.WriteLine ("3 reqemli eded deyil");
+              
+          goto Step1;
+              
+          }
+                               
+                               
+          #endregion                     
         }
     }
 }
