@@ -182,8 +182,19 @@ namespace Classwork3
           goto Step1;
               
           }
-                               
-                               
+           Step2:                      
+           Console.Write (" 4 reqemli m ededi daxil edin:  ");
+                             
+           double m = Convert.ToDouble (Console.ReadLine ());
+           if (m >=1000 && m<9999)
+                             
+          {
+           Console.WriteLine ("4 reqemlidir");
+         }
+          else {
+            Console.WriteLine ("4 reqemli eded deyil");
+              goto Step2;
+          }                
           #endregion                     
         }
     }
