@@ -195,7 +195,41 @@ namespace Classwork3
             Console.WriteLine ("4 reqemli eded deyil");
               goto Step2;
           }                
-          #endregion                     
+          #endregion   
+                             
+          
+           #region Example5
+            
+           int ch = 12345;
+            int qaliq;                 
+            int cem = 0;                         
+           while (ch >0){
+            qaliq = ch % 10;
+          Console.WriteLine (qaliq);
+               ch = ch/10;
+           cem = cem + qaliq;
+         }
+         
+           Console.WriteLine )$" cem: {cem}");                  
+                             
+           #endregion 
+               
+               
+         #region example6
+               System.Console.WriteLine ("boyuk serheddi qeyd edin: ");
+         int iStart = Convert.toInt32(Console.ReadLine());
+           System.Console.WriteLine ("kicik serheddi qeyd edin: "); 
+          int iEnd = Convert.ToInt (Console.ReadLine());  
+        for (int i = 50; i>0; i--)
+            
+        {
+         
+         if (i % 3 == 0 && i % 7==0) {
+            Console.WriteLine(i); 
+         }     
+        }
+          #endregion     
+               
         }
     }
 }
