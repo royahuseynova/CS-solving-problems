@@ -220,16 +220,43 @@ namespace Classwork3
          int iStart = Convert.toInt32(Console.ReadLine());
            System.Console.WriteLine ("kicik serheddi qeyd edin: "); 
           int iEnd = Convert.ToInt (Console.ReadLine());  
-        for (int i = 50; i>0; i--)
+        
+         Console.WriteLine ($"Seciminiz: {iStart}, {iEnd}")   
+           
+            
+            for (int i = 50; i>0; i--)
             
         {
+                 if (i == 0)
+            {
+                continue}; // pas kecir
+            /*
+            continue yerine break yazsaq o zaman 0-a dusduyu anda ondan sonraki menfi ededleri yazmayacaq, 
+            return yazsaydiq ise sonraki hecbir kod ishlemeyeceydi
+            */
          
          if (i % 3 == 0 && i % 7==0) {
             Console.WriteLine(i); 
          }     
         }
+         
+            Console.WriteLine ("For dovrunden kenardaki kod");
           #endregion     
-               
+          
+              
+    #region example7
+     int rqm = 12345;
+     int reverseRqm = 0;
+            
+     while (rqm>0)
+     {
+      int galig =  rqm % 10;
+        reverseRqm = reverseRqm *10 + galig; 
+      Console.WriteLine (reverseRqm);
+        a = a/10; 
+     }
+    #endregion          
+              
         }
     }
 }
