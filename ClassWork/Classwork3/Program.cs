@@ -253,10 +253,14 @@ namespace Classwork3
       int galig =  rqm % 10;
         reverseRqm = reverseRqm *10 + galig; 
       Console.WriteLine (reverseRqm);
-        a = a/10; 
+        rqm = rqm/10; 
      }
     #endregion          
-              
+      
+        
+     #region example8   
+        
+      #endregion  
         }
     }
 }
