@@ -22,7 +22,7 @@ Sonra Cavalari toplayib 10 %ni tap. */
             int c = 0;
             if (a>=1000 && a <9999)
             {
-              return  a = a * 4 / 100;
+              a = a * 4 / 100;
 
             }
             else
@@ -32,7 +32,7 @@ Sonra Cavalari toplayib 10 %ni tap. */
 
             if (b >= 1000000 && b< 9999999)
             {
-                return b = b * 9 / 100;
+                b = b * 9 / 100;
             }
             else
             {

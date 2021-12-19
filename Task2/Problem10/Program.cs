@@ -9,7 +9,7 @@ namespace Problem10
         /* 3 dene 4 reqemli eded verilib.  I ededin 1%-ni, II ededin 2% , III ededin 3 % tap. 
         Neticeleri bir birinden cix. Alinan cavabin ustune III ededin 7 % faizini gel*/
 
-        Step1:
+        Step10:
 
             Console.Write("4 reqemli a ededi daxil edin: ");
             int a = Convert.ToInt32(Console.ReadLine());
@@ -37,7 +37,7 @@ namespace Problem10
             }
             else
             {
-                goto Step1;
+                goto Step10;
             }
         }
     }

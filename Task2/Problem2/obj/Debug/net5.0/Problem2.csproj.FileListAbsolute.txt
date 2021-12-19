@@ -5,7 +5,6 @@ C:\Users\Nicat\Desktop\Новая папка\Task2\Problem2\bin\Debug\net5.0\Pro
 C:\Users\Nicat\Desktop\Новая папка\Task2\Problem2\bin\Debug\net5.0\Problem2.dll
 C:\Users\Nicat\Desktop\Новая папка\Task2\Problem2\bin\Debug\net5.0\ref\Problem2.dll
 C:\Users\Nicat\Desktop\Новая папка\Task2\Problem2\bin\Debug\net5.0\Problem2.pdb
-C:\Users\Nicat\Desktop\Новая папка\Task2\Problem2\obj\Debug\net5.0\Problem2.csproj.AssemblyReference.cache
 C:\Users\Nicat\Desktop\Новая папка\Task2\Problem2\obj\Debug\net5.0\Problem2.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Nicat\Desktop\Новая папка\Task2\Problem2\obj\Debug\net5.0\Problem2.AssemblyInfoInputs.cache
 C:\Users\Nicat\Desktop\Новая папка\Task2\Problem2\obj\Debug\net5.0\Problem2.AssemblyInfo.cs

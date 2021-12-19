@@ -1,5 +1,16 @@
-C:\Users\Nicat\Desktop\Новая папка\Task2\Problem14\obj\Debug\net5.0\Problem14.csproj.AssemblyReference.cache
 C:\Users\Nicat\Desktop\Новая папка\Task2\Problem14\obj\Debug\net5.0\Problem14.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Nicat\Desktop\Новая папка\Task2\Problem14\obj\Debug\net5.0\Problem14.AssemblyInfoInputs.cache
 C:\Users\Nicat\Desktop\Новая папка\Task2\Problem14\obj\Debug\net5.0\Problem14.AssemblyInfo.cs
 C:\Users\Nicat\Desktop\Новая папка\Task2\Problem14\obj\Debug\net5.0\Problem14.csproj.CoreCompileInputs.cache
+C:\Users\Nicat\Desktop\Новая папка\Task2\Problem14\bin\Debug\net5.0\Problem14.exe
+C:\Users\Nicat\Desktop\Новая папка\Task2\Problem14\bin\Debug\net5.0\Problem14.deps.json
+C:\Users\Nicat\Desktop\Новая папка\Task2\Problem14\bin\Debug\net5.0\Problem14.runtimeconfig.json
+C:\Users\Nicat\Desktop\Новая папка\Task2\Problem14\bin\Debug\net5.0\Problem14.runtimeconfig.dev.json
+C:\Users\Nicat\Desktop\Новая папка\Task2\Problem14\bin\Debug\net5.0\Problem14.dll
+C:\Users\Nicat\Desktop\Новая папка\Task2\Problem14\bin\Debug\net5.0\ref\Problem14.dll
+C:\Users\Nicat\Desktop\Новая папка\Task2\Problem14\bin\Debug\net5.0\Problem14.pdb
+C:\Users\Nicat\Desktop\Новая папка\Task2\Problem14\obj\Debug\net5.0\Problem14.dll
+C:\Users\Nicat\Desktop\Новая папка\Task2\Problem14\obj\Debug\net5.0\ref\Problem14.dll
+C:\Users\Nicat\Desktop\Новая папка\Task2\Problem14\obj\Debug\net5.0\Problem14.pdb
+C:\Users\Nicat\Desktop\Новая папка\Task2\Problem14\obj\Debug\net5.0\Problem14.genruntimeconfig.cache
+C:\Users\Nicat\Desktop\Новая папка\Task2\Problem14\obj\Debug\net5.0\Problem14.csproj.AssemblyReference.cache
