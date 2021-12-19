@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nicat\\Desktop\\R programming\\p321\\28112021\\28112021Task2\\Exercise7\\Exercise7.csproj",
+      "projectUniqueName": "C:\\Users\\Nicat\\Desktop\\Новая папка\\28112021\\28112021Task2\\Exercise7\\Exercise7.csproj",
       "projectName": "Exercise7",
-      "projectPath": "C:\\Users\\Nicat\\Desktop\\R programming\\p321\\28112021\\28112021Task2\\Exercise7\\Exercise7.csproj",
+      "projectPath": "C:\\Users\\Nicat\\Desktop\\Новая папка\\28112021\\28112021Task2\\Exercise7\\Exercise7.csproj",
       "packagesPath": "C:\\Users\\Nicat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nicat\\Desktop\\R programming\\p321\\28112021\\28112021Task2\\Exercise7\\obj\\",
+      "outputPath": "C:\\Users\\Nicat\\Desktop\\Новая папка\\28112021\\28112021Task2\\Exercise7\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nicat\\AppData\\Roaming\\NuGet\\NuGet.Config",

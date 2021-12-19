@@ -1,0 +1,5 @@
+C:\Users\Nicat\Desktop\Новая папка\Task2\Problem14\obj\Debug\net5.0\Problem14.csproj.AssemblyReference.cache
+C:\Users\Nicat\Desktop\Новая папка\Task2\Problem14\obj\Debug\net5.0\Problem14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicat\Desktop\Новая папка\Task2\Problem14\obj\Debug\net5.0\Problem14.AssemblyInfoInputs.cache
+C:\Users\Nicat\Desktop\Новая папка\Task2\Problem14\obj\Debug\net5.0\Problem14.AssemblyInfo.cs
+C:\Users\Nicat\Desktop\Новая папка\Task2\Problem14\obj\Debug\net5.0\Problem14.csproj.CoreCompileInputs.cache
