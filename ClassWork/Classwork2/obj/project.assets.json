@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nicat\\Desktop\\R programming\\IntroductionTo_C-Sharp\\ClassWork\\Classwork2\\Classwork2.csproj",
+      "projectUniqueName": "C:\\Users\\Nicat\\Desktop\\Новая папка\\ClassWork\\Classwork2\\Classwork2.csproj",
       "projectName": "Classwork2",
-      "projectPath": "C:\\Users\\Nicat\\Desktop\\R programming\\IntroductionTo_C-Sharp\\ClassWork\\Classwork2\\Classwork2.csproj",
+      "projectPath": "C:\\Users\\Nicat\\Desktop\\Новая папка\\ClassWork\\Classwork2\\Classwork2.csproj",
       "packagesPath": "C:\\Users\\Nicat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nicat\\Desktop\\R programming\\IntroductionTo_C-Sharp\\ClassWork\\Classwork2\\obj\\",
+      "outputPath": "C:\\Users\\Nicat\\Desktop\\Новая папка\\ClassWork\\Classwork2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nicat\\AppData\\Roaming\\NuGet\\NuGet.Config",

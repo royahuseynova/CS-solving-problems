@@ -32,11 +32,11 @@ namespace Classwork3
             #endregion
                 
             #region doWhileLoop
-                double i=0;
-               do
-               {
-                 Console.WriteLine (i );
-               } while (i>0)
+                double e=0;
+            do
+            {
+                Console.WriteLine(i);
+            } while (i > 0);
             
              #endregion
                    

@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fb5af48c-8276-49a8-ae4b-c4d45bce9a85": {
+      "ProjectGuid": "fb5af48c-8276-49a8-ae4b-c4d45bce9a85",
+      "DisplayName": "Classwork3",
+      "ColorIndex": 0
+    },
+    "dda83447-058f-46e0-8722-746dc6e7af70": {
+      "ProjectGuid": "dda83447-058f-46e0-8722-746dc6e7af70",
+      "DisplayName": "Classwork2",
+      "ColorIndex": 1
+    },
+    "2148169f-c66e-4511-bbff-968c69f5dc04": {
+      "ProjectGuid": "2148169f-c66e-4511-bbff-968c69f5dc04",
+      "DisplayName": "Classwork1",
+      "ColorIndex": 2
+    },
+    "1c50187e-b1d7-4bfd-a8a5-ad9b504b0799": {
+      "ProjectGuid": "1c50187e-b1d7-4bfd-a8a5-ad9b504b0799",
+      "DisplayName": "ClassWork4",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
