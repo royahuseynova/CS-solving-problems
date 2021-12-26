@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\introductionTo_C-Sharp\ClassWork\Classwork6\bin\Debug\net5.0\Classwork6.exe
+C:\Users\user\Desktop\introductionTo_C-Sharp\ClassWork\Classwork6\bin\Debug\net5.0\Classwork6.deps.json
+C:\Users\user\Desktop\introductionTo_C-Sharp\ClassWork\Classwork6\bin\Debug\net5.0\Classwork6.runtimeconfig.json
+C:\Users\user\Desktop\introductionTo_C-Sharp\ClassWork\Classwork6\bin\Debug\net5.0\Classwork6.runtimeconfig.dev.json
+C:\Users\user\Desktop\introductionTo_C-Sharp\ClassWork\Classwork6\bin\Debug\net5.0\Classwork6.dll
+C:\Users\user\Desktop\introductionTo_C-Sharp\ClassWork\Classwork6\bin\Debug\net5.0\ref\Classwork6.dll
+C:\Users\user\Desktop\introductionTo_C-Sharp\ClassWork\Classwork6\bin\Debug\net5.0\Classwork6.pdb
+C:\Users\user\Desktop\introductionTo_C-Sharp\ClassWork\Classwork6\obj\Debug\net5.0\Classwork6.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\introductionTo_C-Sharp\ClassWork\Classwork6\obj\Debug\net5.0\Classwork6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\introductionTo_C-Sharp\ClassWork\Classwork6\obj\Debug\net5.0\Classwork6.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\introductionTo_C-Sharp\ClassWork\Classwork6\obj\Debug\net5.0\Classwork6.AssemblyInfo.cs
+C:\Users\user\Desktop\introductionTo_C-Sharp\ClassWork\Classwork6\obj\Debug\net5.0\Classwork6.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\introductionTo_C-Sharp\ClassWork\Classwork6\obj\Debug\net5.0\Classwork6.dll
+C:\Users\user\Desktop\introductionTo_C-Sharp\ClassWork\Classwork6\obj\Debug\net5.0\ref\Classwork6.dll
+C:\Users\user\Desktop\introductionTo_C-Sharp\ClassWork\Classwork6\obj\Debug\net5.0\Classwork6.pdb
+C:\Users\user\Desktop\introductionTo_C-Sharp\ClassWork\Classwork6\obj\Debug\net5.0\Classwork6.genruntimeconfig.cache

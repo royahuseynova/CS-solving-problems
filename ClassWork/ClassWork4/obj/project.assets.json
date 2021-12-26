@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Nicat\\.nuget\\packages\\": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nicat\\Desktop\\Новая папка\\ClassWork\\ClassWork4\\ClassWork4.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\introductionTo_C-Sharp\\ClassWork\\ClassWork4\\ClassWork4.csproj",
       "projectName": "ClassWork4",
-      "projectPath": "C:\\Users\\Nicat\\Desktop\\Новая папка\\ClassWork\\ClassWork4\\ClassWork4.csproj",
-      "packagesPath": "C:\\Users\\Nicat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nicat\\Desktop\\Новая папка\\ClassWork\\ClassWork4\\obj\\",
+      "projectPath": "C:\\Users\\user\\Desktop\\introductionTo_C-Sharp\\ClassWork\\ClassWork4\\ClassWork4.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\introductionTo_C-Sharp\\ClassWork\\ClassWork4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Nicat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

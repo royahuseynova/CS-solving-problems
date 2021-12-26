@@ -37,7 +37,7 @@ son dersdeki kimi istifadeciden say saorushulsun ve o qeder sayda mashini massiv
 
                 Console.Write("Masin rengi daxil et: ");
                 carsInstance.color = Console.ReadLine();
-
+                
                 Console.Write("Qiymet daxil et: ");
                 carsInstance.price = Convert.ToDouble(Console.ReadLine());
 

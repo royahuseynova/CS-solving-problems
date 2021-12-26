@@ -20,7 +20,17 @@
       "ProjectGuid": "1c50187e-b1d7-4bfd-a8a5-ad9b504b0799",
       "DisplayName": "ClassWork4",
       "ColorIndex": 3
+    },
+    "815c6285-592b-4564-be01-27226a37b5ef": {
+      "ProjectGuid": "815c6285-592b-4564-be01-27226a37b5ef",
+      "DisplayName": "Classwork5",
+      "ColorIndex": 4
+    },
+    "1b5a9d8d-c39e-4de1-ae24-32dee1b8c942": {
+      "ProjectGuid": "1b5a9d8d-c39e-4de1-ae24-32dee1b8c942",
+      "DisplayName": "23Dec2021",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 6
 }
