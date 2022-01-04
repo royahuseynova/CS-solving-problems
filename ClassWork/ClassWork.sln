@@ -15,19 +15,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classwork5", "Classwork5\Cl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "23Dec2021", "23Dec2021\23Dec2021.csproj", "{1B5A9D8D-C39E-4DE1-AE24-32DEE1B8C942}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classwork6", "Classwork6\Classwork6.csproj", "{E9E03813-FE67-4EE1-8A20-29550FE40DBC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classwork6", "Classwork6\Classwork6.csproj", "{E9E03813-FE67-4EE1-8A20-29550FE40DBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classwork7", "Classwork7\Classwork7.csproj", "{C78B76F8-65CD-4123-9681-F2B33C7FE6C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classwork7", "Classwork7\Classwork7.csproj", "{C78B76F8-65CD-4123-9681-F2B33C7FE6C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classwork8", "Classwork8\Classwork8.csproj", "{00F0ADB9-F7CD-4C44-9B8D-904C69784037}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classwork8", "Classwork8\Classwork8.csproj", "{00F0ADB9-F7CD-4C44-9B8D-904C69784037}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classwork9", "Classwork10\Classwork9.csproj", "{404CB7AE-D150-4A7C-B28E-899278963529}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classwork9", "Classwork10\Classwork9.csproj", "{404CB7AE-D150-4A7C-B28E-899278963529}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyHelpers", "MyHelpers\MyHelpers.csproj", "{6B663492-E099-4E23-936B-9AE2FF4FA69B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyHelpers", "MyHelpers\MyHelpers.csproj", "{6B663492-E099-4E23-936B-9AE2FF4FA69B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classwork11", "Classwork11\Classwork11.csproj", "{2B2A4780-54F8-4D59-AE20-5EE1A4EBFA30}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classwork11", "Classwork11\Classwork11.csproj", "{2B2A4780-54F8-4D59-AE20-5EE1A4EBFA30}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classwork12", "Classwork12\Classwork12.csproj", "{7FA55A48-D159-4C88-A417-966D17490BA5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classwork04Jan", "Classwork04Jan\Classwork04Jan.csproj", "{2D196E87-9AF1-464E-A1E2-61B759A961B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -83,10 +83,10 @@ Global
 		{2B2A4780-54F8-4D59-AE20-5EE1A4EBFA30}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B2A4780-54F8-4D59-AE20-5EE1A4EBFA30}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B2A4780-54F8-4D59-AE20-5EE1A4EBFA30}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7FA55A48-D159-4C88-A417-966D17490BA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7FA55A48-D159-4C88-A417-966D17490BA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7FA55A48-D159-4C88-A417-966D17490BA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7FA55A48-D159-4C88-A417-966D17490BA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D196E87-9AF1-464E-A1E2-61B759A961B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D196E87-9AF1-464E-A1E2-61B759A961B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D196E87-9AF1-464E-A1E2-61B759A961B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D196E87-9AF1-464E-A1E2-61B759A961B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

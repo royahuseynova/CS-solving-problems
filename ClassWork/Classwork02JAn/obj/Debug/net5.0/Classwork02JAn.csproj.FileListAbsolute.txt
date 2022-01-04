@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\introductionTo_C-Sharp\ClassWork\Classwork02JAn\bin\Debug\net5.0\Classwork02JAn.exe
+C:\Users\user\Desktop\introductionTo_C-Sharp\ClassWork\Classwork02JAn\bin\Debug\net5.0\Classwork02JAn.deps.json
+C:\Users\user\Desktop\introductionTo_C-Sharp\ClassWork\Classwork02JAn\bin\Debug\net5.0\Classwork02JAn.runtimeconfig.json
+C:\Users\user\Desktop\introductionTo_C-Sharp\ClassWork\Classwork02JAn\bin\Debug\net5.0\Classwork02JAn.runtimeconfig.dev.json
+C:\Users\user\Desktop\introductionTo_C-Sharp\ClassWork\Classwork02JAn\bin\Debug\net5.0\Classwork02JAn.dll
+C:\Users\user\Desktop\introductionTo_C-Sharp\ClassWork\Classwork02JAn\bin\Debug\net5.0\ref\Classwork02JAn.dll
+C:\Users\user\Desktop\introductionTo_C-Sharp\ClassWork\Classwork02JAn\bin\Debug\net5.0\Classwork02JAn.pdb
+C:\Users\user\Desktop\introductionTo_C-Sharp\ClassWork\Classwork02JAn\obj\Debug\net5.0\Classwork02JAn.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\introductionTo_C-Sharp\ClassWork\Classwork02JAn\obj\Debug\net5.0\Classwork02JAn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\introductionTo_C-Sharp\ClassWork\Classwork02JAn\obj\Debug\net5.0\Classwork02JAn.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\introductionTo_C-Sharp\ClassWork\Classwork02JAn\obj\Debug\net5.0\Classwork02JAn.AssemblyInfo.cs
+C:\Users\user\Desktop\introductionTo_C-Sharp\ClassWork\Classwork02JAn\obj\Debug\net5.0\Classwork02JAn.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\introductionTo_C-Sharp\ClassWork\Classwork02JAn\obj\Debug\net5.0\Classwork02JAn.dll
+C:\Users\user\Desktop\introductionTo_C-Sharp\ClassWork\Classwork02JAn\obj\Debug\net5.0\ref\Classwork02JAn.dll
+C:\Users\user\Desktop\introductionTo_C-Sharp\ClassWork\Classwork02JAn\obj\Debug\net5.0\Classwork02JAn.pdb
+C:\Users\user\Desktop\introductionTo_C-Sharp\ClassWork\Classwork02JAn\obj\Debug\net5.0\Classwork02JAn.genruntimeconfig.cache

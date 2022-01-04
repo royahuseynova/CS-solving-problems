@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "573a59b8-4f1d-45ce-b3ce-7e53740035eb": {
+      "ProjectGuid": "573a59b8-4f1d-45ce-b3ce-7e53740035eb",
+      "DisplayName": "Classwork02JAn",
+      "ColorIndex": 0
+    },
+    "357206fc-2b90-4355-b365-a95d8eb25871": {
+      "ProjectGuid": "357206fc-2b90-4355-b365-a95d8eb25871",
+      "DisplayName": "Classwork03Jan",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

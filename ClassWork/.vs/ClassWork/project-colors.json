@@ -30,7 +30,47 @@
       "ProjectGuid": "1b5a9d8d-c39e-4de1-ae24-32dee1b8c942",
       "DisplayName": "23Dec2021",
       "ColorIndex": 5
+    },
+    "e9e03813-fe67-4ee1-8a20-29550fe40dbc": {
+      "ProjectGuid": "e9e03813-fe67-4ee1-8a20-29550fe40dbc",
+      "DisplayName": "Classwork6",
+      "ColorIndex": 6
+    },
+    "c78b76f8-65cd-4123-9681-f2b33c7fe6c9": {
+      "ProjectGuid": "c78b76f8-65cd-4123-9681-f2b33c7fe6c9",
+      "DisplayName": "Classwork7",
+      "ColorIndex": 7
+    },
+    "00f0adb9-f7cd-4c44-9b8d-904c69784037": {
+      "ProjectGuid": "00f0adb9-f7cd-4c44-9b8d-904c69784037",
+      "DisplayName": "Classwork8",
+      "ColorIndex": 8
+    },
+    "404cb7ae-d150-4a7c-b28e-899278963529": {
+      "ProjectGuid": "404cb7ae-d150-4a7c-b28e-899278963529",
+      "DisplayName": "Classwork9",
+      "ColorIndex": 9
+    },
+    "6b663492-e099-4e23-936b-9ae2ff4fa69b": {
+      "ProjectGuid": "6b663492-e099-4e23-936b-9ae2ff4fa69b",
+      "DisplayName": "MyHelpers",
+      "ColorIndex": 10
+    },
+    "2b2a4780-54f8-4d59-ae20-5ee1a4ebfa30": {
+      "ProjectGuid": "2b2a4780-54f8-4d59-ae20-5ee1a4ebfa30",
+      "DisplayName": "Classwork11",
+      "ColorIndex": 11
+    },
+    "7fa55a48-d159-4c88-a417-966d17490ba5": {
+      "ProjectGuid": "7fa55a48-d159-4c88-a417-966d17490ba5",
+      "DisplayName": "Classwork12",
+      "ColorIndex": 12
+    },
+    "2d196e87-9af1-464e-a1e2-61b759a961b9": {
+      "ProjectGuid": "2d196e87-9af1-464e-a1e2-61b759a961b9",
+      "DisplayName": "Classwork04Jan",
+      "ColorIndex": 13
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 14
 }
