@@ -6,16 +6,22 @@ namespace Classwork04Jan
     {
         static void Main(string[] args)
         {
-            int[] arr = new int[0];
-           int sum = 0;
-            Console.WriteLine("eded daxil etmek isteyirsiniz? he ucun enter duymesini sixin");
+            Book[] arr = new Book[0];
+           
+            Console.WriteLine("kitab daxil etmek isteyirsiniz? he ucun enter duymesini sixin");
           while (Console.ReadKey().Key == ConsoleKey.Enter)
             {
-                Console.Write("eded:");
-                int eded = Convert.ToInt32(Console.ReadLine());
-                // sum = sum + eded;
+                Book book = new Book();
+
+                Console.Write("book name:");
+                book.Name = Console.ReadLine();
+                Console.Write("Author name: ");
+                book.Author = Console.ReadLine();
+                
+                
+                
                 Array.Resize(ref arr, arr.Length+1);
-                arr[arr.Length - 1] = eded;
+                arr[arr.Length - 1] = book;
 
                // Console.WriteLine(sum);
 
@@ -27,7 +33,7 @@ namespace Classwork04Jan
             Console.WriteLine( "__________"); 
            // Console.WriteLine(sum);
 
-            foreach(int i in arr)
+            foreach(var i in arr)
             {
                 Console.WriteLine(i);
             }
